@@ -9,3 +9,5 @@ BOT STIKER WHATSAPP WITH MODULE @open-wa/wa-automate
 5. npm i
 6. node index.js
 7. scan qr dengan whatsapp-mu di hp
+
+Thanks For mas abdul muttaqin
