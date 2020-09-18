@@ -5,7 +5,7 @@ BOT STIKER WHATSAPP WITH MODULE @open-wa/wa-automate
 1. Install NodeJS
 2. Install Github
 3. gitclone https://github.com/saaiit/bot-stiker-wa
-4. cd bot-stiker
+4. cd bot-stiker-wa
 5. npm i
 6. node index.js
 7. scan qr dengan whatsapp-mu di hp
